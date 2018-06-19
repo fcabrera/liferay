@@ -1,7 +1,7 @@
 # Liferay :: Hook for Servlet Filter throws Exception after server restart on WildFly
 
 This repository has the purpose of being a support to resolve the problem reported in the following forum thread:
-https://web.liferay.com/es/community/forums/-/message_boards/message/110177652
+https://community.liferay.com/forums/-/message_boards/message/109163033
 
 Steps to reproduce the error:
 
